@@ -1,2 +1,5 @@
-public class Vulnerable {
+public enum Vulnerable {
+    HUMANOS,
+    LOBOS,
+    VAMPIROS
 }

@@ -1,2 +1,2 @@
-public class CicloVital {
+public interface CicloVital {
 }
